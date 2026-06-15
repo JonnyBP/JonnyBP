@@ -9,9 +9,9 @@
     </a>
 </p>
 
-Soy un ingeniero mecatrónico con mentalidad *Maker* que le gusta experimentar, prototipar y construir cosas que mezclen robótica, software e inteligencia artificial.
+Soy un ingeniero mecatrónico con mentalidad *Maker* que le gusta experimentar, prototipar y construir cosas.
 
-Actualmente me estoy formando en IA, mientras sigo probando ideas de ingeniería y robótica en proyectos reales.
+Actualmente me estoy formando en IA, mientras sigo probando ideas de ingeniería en proyectos reales.
 
 Junto a mi formación desarrollé un proyecto de visión por computador en tiempo real para detectar el uso de mascarillas, usando Python y Raspberry Pi, integrado con un sistema pan-tilt con servomotores para el seguimiento automático del objetivo.
 
@@ -25,10 +25,14 @@ Me interesa especialmente llevar modelos y algoritmos del código al hardware, a
 
 
 ### 🚀 Proyectos destacados
-- 🔹 **Taxímetro** – Simulador de taxímetro desarrollado en Python.  
-  👉 [Repositorio](https://github.com/Bootcamp-IA-P6/Proyecto1_Jonathan_Brasales)
+- 🔹 **ARIA** – Detección de Ictus temprano.  
+  👉 [Repositorio](https://github.com/JonnyBP/ARIA)
 - 🔹 **Visión artificial & seguimiento Pan-Tilt** – Detección del uso de mascarilla y su seguimiento.  
   👉 [Repositorio](https://github.com/Bootcamp-IA-P6/Proyecto1_Jonathan_Brasales)
+- 🔹 **OopsBin** – Clasificación de residuos.  
+  👉 [Repositorio](https://github.com/JonnyBP/OopsBin)
+- 🔹 **Coffee Quality** – Clasificación de café  
+  👉 [Repositorio](https://github.com/JonnyBP/Coffee_Quality_Classification)
 
 
 
