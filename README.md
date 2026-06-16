@@ -25,6 +25,8 @@ Me interesa especialmente llevar modelos y algoritmos del código al hardware, a
 
 
 ### 🚀 Proyectos destacados
+- 🔹 **SciComm Studio** – SciComm Studio es una aplicación basada en inteligencia artificial que transforma artículos científicos en contenidos accesibles, como resúmenes, fichas de estudio, cuestionarios y publicaciones en redes sociales. Aprovecha los modelos de lenguaje a gran escala y las técnicas RAG para salvar la brecha entre la investigación compleja y el conocimiento fácil de entender, haciendo que la ciencia resulte más accesible para un público no especializado. 
+  👉 [Repositorio](https://github.com/JonnyBP/SciComm-Studio)
 - 🔹 **ARIA** – Detección de Ictus temprano.  
   👉 [Repositorio](https://github.com/JonnyBP/ARIA)
 - 🔹 **Visión artificial & seguimiento Pan-Tilt** – Detección del uso de mascarilla y su seguimiento.  
